@@ -1,21 +1,44 @@
-[{
-  "id": 1,
-  "question": "Grand Central Terminal, Park Avenue, New York is the world's",
-  "category_name": "basic-general-knowledge"
-},{
-  "id": 2,
-  "question": "Entomology is the science that studies",
-  "category_name": "basic-general-knowledge"
-},{
-  "id": 3,
-  "question": "The Homolographic projection has the correct representation of",
-  "category_name": "World Geography"
-},{
-  "id": 4,
-  "question": "The latitudinal differences in pressure delineate a number of major pressure zones, which correspond with",
-  "category_name": "World Geography"
-},{
-  "id": 5,
-  "question": "Track and field star Carl Lewis won how many gold medals at the 1984 Olympic games?",
-  "category_name": "Sports"
-}]
+{
+  "questions": [
+    {
+      "id": 1,
+      "title": "question 1"
+      "category_name": "sports"
+    },
+    {
+      "id": 2,
+      "title": "question 2",
+       "category_name": "sports"
+    },
+    {
+      "id": 3,
+      "title": "question 3",
+       "category_name": "General Knowledge"
+    },
+    {
+      "id": 4,
+      "title": "question 4",
+       "category_name": "General Knowledge"
+    },
+    {
+      "id": 5,
+      "title": "question 5",
+       "category_name": "Geography"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
